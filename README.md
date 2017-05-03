@@ -6,6 +6,4 @@ Script: https://github.com/garrettgriess/Parsely-Custom/blob/master/Parsely-Cust
 
 # Browser Plugins
 
-Firefox Add-On: N/A
-
-Chrome Extension: N/A
+Chrome Extension: https://chrome.google.com/webstore/detail/parsely-custom/gbldgeeakminagloffnkgmkdiojpfokm
