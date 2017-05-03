@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Parsely-Custom
-// @include     https://dash.parsely.com/theindependent.com/*
+// @include     https://dash.parsely.com/*
 // @grant       none
 // ==/UserScript==
 $(document).ready(function () {
