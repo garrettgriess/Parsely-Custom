@@ -4,11 +4,8 @@
 // @grant       none
 // ==/UserScript==
 $(document).ready(function () {
-  $('body').append('<div id="count" style="position:fixed;bottom:2px;right:2px;color:#333;">0</div>');
-  f = 0;
   function ggLoopForever() {
     setInterval(function () {
-      $('#count').text(f++);
       $('#main, .item-listing').css('background-color', '#090f14'); //posts page
       $('.left-col, .right-col, .panel-list').css('background-color', '#090f14'); //overview page
       $('.simple-title').css('font-size', '0.8em'); //Smaller post titles
